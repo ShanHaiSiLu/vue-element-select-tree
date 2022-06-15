@@ -47,3 +47,7 @@
     </template>
 </select-tree>
 ```
+
+要查看源代码或者有什么建议请访问：[https://github.com/xjy-1999/vue-element-select-tree](https://github.com/xjy-1999/vue-element-select-tree)
+
+npm地址请访问：[https://www.npmjs.com/package/v-tree-select-eui](https://www.npmjs.com/package/v-tree-select-eui)
