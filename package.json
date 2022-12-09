@@ -1,6 +1,6 @@
 {
   "name": "v-tree-select-eui",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "基于element-ui的el-popover组件和el-tree组件的树形下拉框",
   "main": "packages/index.js",
   "keywords": "vue, element-ui, drop-down-box, tree-shape",
